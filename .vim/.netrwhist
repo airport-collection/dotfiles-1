@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/stevewang/.config/ranger'
+let g:netrw_dirhist_9='/Users/stevewang/Documents/Courses/CSCI 315/csci315/Labs/Lab5/src'
+let g:netrw_dirhist_8='/Users/stevewang/Documents/Courses/CSCI 315/csci315/Labs/Lab5'
+let g:netrw_dirhist_7='/Users/stevewang/.config/alacritty'
+let g:netrw_dirhist_6='/Users/stevewang/Documents/Courses/CSCI 315/csci315/Labs/Lab5/src'
+let g:netrw_dirhist_5='/Users/stevewang/.config/alacritty'
+let g:netrw_dirhist_4='/Users/stevewang/.config/scripts'
+let g:netrw_dirhist_3='/Users/stevewang/.config/skhd'
+let g:netrw_dirhist_2='/Users/stevewang/Music/Daft Punk - Random Access Memories (2013) [FLAC 24.96] vinyl'
+let g:netrw_dirhist_1='/Users/stevewang/.oh-my-zsh'
